@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpInvasion", "TrumpInvasion.csproj", "{63916563-DA52-4636-93A2-A15135B0137D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63916563-DA52-4636-93A2-A15135B0137D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63916563-DA52-4636-93A2-A15135B0137D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63916563-DA52-4636-93A2-A15135B0137D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63916563-DA52-4636-93A2-A15135B0137D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C97BAC-2DFB-4242-A78A-FA264C402C6B}
+	EndGlobalSection
+EndGlobal

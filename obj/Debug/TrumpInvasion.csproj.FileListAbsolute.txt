@@ -1,0 +1,10 @@
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\bin\Debug\TrumpInvasion.exe.config
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\bin\Debug\TrumpInvasion.exe
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\bin\Debug\TrumpInvasion.pdb
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.csprojAssemblyReference.cache
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.Form1.resources
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.Properties.Resources.resources
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.csproj.GenerateResource.cache
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.csproj.CoreCompileInputs.cache
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.exe
+D:\CodeSandbox\Projects\C#Dev\TrumpInvasion\obj\Debug\TrumpInvasion.pdb
